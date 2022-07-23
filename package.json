@@ -1,0 +1,22 @@
+{
+  "name": "@ryan-lamarr/camellia-ui",
+  "version": "0.0.2",
+  "description": "camellia ui",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryan-lamarr/camellia-ui.git"
+  },
+  "keywords": [
+    "camellia-ui"
+  ],
+  "author": "ryan-lamarr",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/ryan-lamarr/camellia-ui/issues"
+  },
+  "homepage": "https://github.com/ryan-lamarr/camellia-ui#readme"
+}
